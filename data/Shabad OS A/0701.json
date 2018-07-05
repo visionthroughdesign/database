@@ -1,0 +1,111 @@
+[
+  {
+    "id": "LPT",
+    "writer": "Shabad OS",
+    "subsection": null,
+    "section": "Shabad OS A",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "9UC9",
+        "source_page": 701,
+        "source_line": 0,
+        "gurmukhi": "inj Gr myro swD sMgiq nwrd muin drsn swD sMg myro inj rUp hY ]",
+        "transliteration_english": "nij ghar maero saadh sangath naaradh mun dharasan saadh sang maero nij roop hai |",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "7STZ",
+        "source_page": 701,
+        "source_line": 0,
+        "gurmukhi": "swD sMg myro mwqw ipqw AO kutMb sKw swD sMg myro suq sRyst AnUp hY ]",
+        "transliteration_english": "saadh sang maero maathaa pithaa aau kuttanb sakhaa saadh sang maero suth sraesatt anoop hai |",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "5MMK",
+        "source_page": 701,
+        "source_line": 0,
+        "gurmukhi": "swD sMg srb inDwn pRwn jIvn mY swD sMg inj pd syvw kIp DUp hY ]",
+        "transliteration_english": "saadh sang sarab nidhaan praan jeevan mai saadh sang nij padh saevaa keep dhoop hai |",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "B83C",
+        "source_page": 701,
+        "source_line": 0,
+        "gurmukhi": "swD sMg rMg rs Bog suK shj mY swD sMg soBw Aiq aupmw AO aUp hY ]",
+        "transliteration_english": "saadh sang rang ras bhog sukh sehaj mai saadh sang sobhaa ath oupamaa aau oop hai |",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      }
+    ]
+  }
+]

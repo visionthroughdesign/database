@@ -1,0 +1,61 @@
+[
+  {
+    "id": "1GH",
+    "writer": "Shabad OS",
+    "subsection": null,
+    "section": "Shabad OS A",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "PD76",
+        "source_page": 707,
+        "source_line": 0,
+        "gurmukhi": "AW hjUmy bd ik SYqwnI bvd ]",
+        "transliteration_english": "aaa(n) hajoomae badh k shaithaanee bavadh |",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "SZX3",
+        "source_page": 707,
+        "source_line": 0,
+        "gurmukhi": "Awkbq Az vY ipSymwnI bvd ]25]",
+        "transliteration_english": "aakabath az vai pishaemaanee bavadh |25|",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      }
+    ]
+  }
+]

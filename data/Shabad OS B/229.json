@@ -1,0 +1,111 @@
+[
+  {
+    "id": "VQA",
+    "writer": "Shabad OS",
+    "subsection": null,
+    "section": "Shabad OS B",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "QX5V",
+        "source_page": 229,
+        "source_line": 1,
+        "gurmukhi": "eyk mnu AwT KMf KMf KMf pwNc tUk tUk tUk cwir Pwr Pwr doie Pwr hY",
+        "transliteration_english": "Ayk Manu Aatth Khand Khand Khand Paanch Tooka , Took Took Chaari Dhaar Dhaar Doi Dhaar Hai ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "A maund (Indian weight measure of past) divided into eight parts makes eight parts of five seer each. Each part when divided into five parts make five pieces of one seer (Indian weight measure) each. If each seer divided into four parts, then each quarter",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "SLXZ",
+        "source_page": 229,
+        "source_line": 2,
+        "gurmukhi": "qwhU qy peIsy Aau peIsw eyk pwNc twNk twNk twNk mwsy cwir Aink pRkwr hY",
+        "transliteration_english": "Taahoo Tay Paeesay Au Paeesaa Ayk Paanch Taanka , Taank Taank Maasay Chaari Anik Prakaar Hai ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "These half paos are then reduced to Sarsahi. Each Sarsahi contains five Tank. Each Tank has four Mashas. Thus these weight measures have much spread.",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "LCTS",
+        "source_page": 229,
+        "source_line": 3,
+        "gurmukhi": "mwsw eyk AwT rqI rqI AwT cwvr kI hwt hwt knu knu qol qulwDwr hY",
+        "transliteration_english": "Maasaa Ayk Aatth Ratee Ratee Aatth Chaavar Kee , Haat Haat Kanu Kanu Tol Tulaadhaar Hai ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "One masha contains eight ratis (a small red and black seed of Allarams, used as a weight measure by jewellers for weighing gold) and one rati has eight grains of rice. Thus are being weighed items in a shop.",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "U6X2",
+        "source_page": 229,
+        "source_line": 4,
+        "gurmukhi": "pur pur pUir rhy skl sMswr ibKY bis AwvY kYsy jw ko eyqo ibsQwr hY ]229]",
+        "transliteration_english": "Pur Pur Poori Rahay Sakal Sansaar Bikhai , Basi Aavai Kaisay Jaa Ko Ayto Bisadaar Hai ?229?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "This is the spread of a maund in the cities of the world. A mind which has such an expanse of lust, anger, avarice attachment, arrogance, desires and other vices, how can that mind be controlled? (229)",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      }
+    ]
+  }
+]

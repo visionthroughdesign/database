@@ -1,0 +1,136 @@
+[
+  {
+    "id": "5VP",
+    "writer": "Shabad OS",
+    "subsection": null,
+    "section": "Shabad OS A",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "92JG",
+        "source_page": 303,
+        "source_line": 0,
+        "gurmukhi": "rubweI ]",
+        "transliteration_english": "rubaaee |",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "KPR7",
+        "source_page": 303,
+        "source_line": 0,
+        "gurmukhi": "dr dhr ik mrdwin ^udw Awmdh AMd ]",
+        "transliteration_english": "dhar dhehar k maradhaan khudhaa aamadheh andh |",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "JCJ9",
+        "source_page": 303,
+        "source_line": 0,
+        "gurmukhi": "br gum SudgW rwhnumw Awmdh AMd ]",
+        "transliteration_english": "bar gum shudhagaa(n) raahanumaa aamadheh andh |",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "7WGN",
+        "source_page": 303,
+        "source_line": 0,
+        "gurmukhi": "goXw Agr eIN cSim qO muSqwik ^udw As? ]",
+        "transliteration_english": "goyaa agar ee chasham thaau mushathaak khudhaa asa |",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "Z1RU",
+        "source_page": 303,
+        "source_line": 0,
+        "gurmukhi": "mrdwin ^udw ^udwnumw Awmdh AMd ]",
+        "transliteration_english": "maradhaan khudhaa khudhaanumaa aamadheh andh |",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      }
+    ]
+  }
+]

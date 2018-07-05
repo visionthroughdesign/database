@@ -2876,5 +2876,56 @@
     "page_name_english": "Panna",
     "page_name_gurmukhi": "pMnw",
     "sections": []
+  },
+  {
+    "name_gurmukhi": "Shabad OS B",
+    "name_english": "Shabad OS B",
+    "length": 0,
+    "page_name_english": "page",
+    "page_name_gurmukhi": "page",
+    "sections": [
+      {
+        "name_gurmukhi": "Shabad OS B",
+        "name_english": "Shabad OS B",
+        "description": "B",
+        "start_page": 0,
+        "end_page": 0,
+        "subsections": []
+      }
+    ]
+  },
+  {
+    "name_gurmukhi": "Shabad OS N",
+    "name_english": "Shabad OS N",
+    "length": 0,
+    "page_name_english": "page",
+    "page_name_gurmukhi": "page",
+    "sections": [
+      {
+        "name_gurmukhi": "Shabad OS N",
+        "name_english": "Shabad OS N",
+        "description": "N",
+        "start_page": 0,
+        "end_page": 0,
+        "subsections": []
+      }
+    ]
+  },
+  {
+    "name_gurmukhi": "Shabad OS A",
+    "name_english": "Shabad OS A",
+    "length": 0,
+    "page_name_english": "page",
+    "page_name_gurmukhi": "page",
+    "sections": [
+      {
+        "name_gurmukhi": "Shabad OS A",
+        "name_english": "Shabad OS A",
+        "description": "A",
+        "start_page": 0,
+        "end_page": 0,
+        "subsections": []
+      }
+    ]
   }
 ]

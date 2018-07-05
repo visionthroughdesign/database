@@ -1,0 +1,111 @@
+[
+  {
+    "id": "VHS",
+    "writer": "Shabad OS",
+    "subsection": null,
+    "section": "Shabad OS B",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "VGDR",
+        "source_page": 600,
+        "source_line": 1,
+        "gurmukhi": "jYsy pIq sÍyq sRXwm Arn vrin rUp AgRBwig rwKY AwNDro n kCu dyK hY",
+        "transliteration_english": "Jaisay Peet Svayt Syaam Aran Varani Roopa , Agrabhaagi Raakhai Aandharo N Kachhu Daykh Hai ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "Just as yellow, red, black and white coloured articles placed before a blind person means nothing to him. He can not see them. ",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "SFSV",
+        "source_page": 600,
+        "source_line": 2,
+        "gurmukhi": "jYsy rwg rwgnI AO nwd bwd Awn gun gwvq bjwvq n bhro pryK hY",
+        "transliteration_english": "Jaisay Raag Raaganee Au Naad Baad Aan Gouna , Gaavat Bajaavat N Baharo Paraykh Hai ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "Just as a deaf cannot judge the expertise of a person who plays musical instruments, sings or performs other singing related acts. ",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "27EA",
+        "source_page": 600,
+        "source_line": 3,
+        "gurmukhi": "jYsy rs Bog bhu ibMjn prosY AwgY biRQwvMq jMq nwih ruicq ibsyK hY",
+        "transliteration_english": "Jaisay Ras Bhog Bahu Binjan Parosai Aagai , Bridaavant Jant Naahi Rouchit Bisaykh Hai ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "Just as a sick person when served with dainty dishes, pays scant attention towards them. ",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "8VUU",
+        "source_page": 600,
+        "source_line": 4,
+        "gurmukhi": "qYsy gur drs bcn pRym nym inD mihmw n jwnI moih ADm AByK hY ]600]",
+        "transliteration_english": "Taisay Gur Daras Bachan Praym Naym Nidha , Mahimaa N Jaanee Mohi Adham Abhaykh Hai ?600?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "Similarly, I who is low and wear a hypocrite garb have not appreciated the value of the words of True Guru which are priceless treasure for fulfilling the pledges and promises of love.  (600)",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      }
+    ]
+  }
+]

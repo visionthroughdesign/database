@@ -1,0 +1,111 @@
+[
+  {
+    "id": "GGT",
+    "writer": "Shabad OS",
+    "subsection": null,
+    "section": "Shabad OS B",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "LDR2",
+        "source_page": 264,
+        "source_line": 1,
+        "gurmukhi": "jYsy lg mwqHIn pVq Aaur kau Aaur ipqw pUq pUq ipqw smsir jwnIAY",
+        "transliteration_english": "Jaisay Lag Maatraheen Parhat Aur Kau Aura , Pitaa Poot Poot Pitaa Samasari Jaaneeai ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "Just as a word devoid of vowel symbol would sound different, word 'pita' and 'putt' would be read alike.",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "3PUT",
+        "source_page": 264,
+        "source_line": 2,
+        "gurmukhi": "suriq ibhUn jYsy bwvro bKwnIAq Aaur khy Aaur kCy ihrdY mY AwnIAY",
+        "transliteration_english": "Surati Bihoon Jaisay Baavaro Bakhaaneeata , Aur Kahay Aur Kachhay Hiradai Mai Aaneeai ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "Just as a person is called demented when not in his full senses, he understands different than what is being said.",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "X0H6",
+        "source_page": 264,
+        "source_line": 3,
+        "gurmukhi": "jYsy guMg sBw miD kih n skq bwq bolq hswie hoie bcn ibDwnIAY",
+        "transliteration_english": "Jaisay Goung Sabhaa Madhi Kahi N Sakat Baata , Bolat Hasaai Hoi Bachan Bidhaaneeai ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "Just as a mute person cannot express himself in any gathering, even if he tries to utter a word, he becomes a laughing stock for all,",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "FM39",
+        "source_page": 264,
+        "source_line": 4,
+        "gurmukhi": "gurmuiK mwrg mY mnmuK Qkq huie lgn sgn mwny kYsy mwnIAY ]264]",
+        "transliteration_english": "Gurmukhi Maarag Mai Manamoukh Dakat Hui , Lagan Sagan Maanay Kaisay Maaneeai ?264?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "No self-oriented or self-willed person can tread the path of Guru-conscious persons. How can one feel persuaded to tread the path of Guru-conscious people when one is bound by the omens-good or bad. (264)",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      }
+    ]
+  }
+]

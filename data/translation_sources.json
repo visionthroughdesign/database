@@ -52,5 +52,41 @@
     "name_english": "SGPC",
     "source": "Ardaas",
     "language": "English"
+  },
+  {
+    "name_gurmukhi": "Shabad OS B",
+    "name_english": "Shabad OS B",
+    "source": "Shabad OS B",
+    "language": "English"
+  },
+  {
+    "name_gurmukhi": "Shabad OS B",
+    "name_english": "Shabad OS B",
+    "source": "Shabad OS B",
+    "language": "Punjabi"
+  },
+  {
+    "name_gurmukhi": "Shabad OS N",
+    "name_english": "Shabad OS N",
+    "source": "Shabad OS N",
+    "language": "English"
+  },
+  {
+    "name_gurmukhi": "Shabad OS N",
+    "name_english": "Shabad OS N",
+    "source": "Shabad OS N",
+    "language": "Punjabi"
+  },
+  {
+    "name_gurmukhi": "Shabad OS A",
+    "name_english": "Shabad OS A",
+    "source": "Shabad OS A",
+    "language": "English"
+  },
+  {
+    "name_gurmukhi": "Shabad OS A",
+    "name_english": "Shabad OS A",
+    "source": "Shabad OS A",
+    "language": "Punjabi"
   }
 ]

@@ -1,0 +1,111 @@
+[
+  {
+    "id": "G87",
+    "writer": "Shabad OS",
+    "subsection": null,
+    "section": "Shabad OS B",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "3MLX",
+        "source_page": 256,
+        "source_line": 1,
+        "gurmukhi": "mDur bcn smsir n pujs mD krk sbid sir ibK n ibKm hY",
+        "transliteration_english": "Madhur Bachan Samasari N Pujas Madha , Karak Sabadi Sari Bikh N Bikham Hai ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "Sweetness of honey cannot match the sweetness of sweetly spoken words. No poison is as discomforting as bitter words.",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "11UA",
+        "source_page": 256,
+        "source_line": 2,
+        "gurmukhi": "mDur bcn sIqlqw imstwn pwn krk sbd sqpq ktu km hY",
+        "transliteration_english": "Madhur Bachan Seetalataa Misataan Paana , Karak Sabad Satapat Katu Kam Hai ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "Sweet words cools the mind as cold drinks cool the body and provide comfort (during summer), but highly bitter thing is nothing compared to very sharp and harsh words.",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "FSYX",
+        "source_page": 256,
+        "source_line": 3,
+        "gurmukhi": "mDur bcn kY qiRpiq Aau sMqoK swNiq krk sbd AsMqoK doK sRm hY",
+        "transliteration_english": "Madhur Bachan Kai Tripati Au Santokh Saanti , Karak Sabad Asantokh Dokh Sram Hai ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "Sweet words render one with peace, satiation and contentment whereas harsh words create restlessness, vice and fatigue.",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "VG56",
+        "source_page": 256,
+        "source_line": 4,
+        "gurmukhi": "mDur bcn lig Agm sugm hoie krk sbd lig sugm Agm hY ]256]",
+        "transliteration_english": "Madhur Bachan Lagi Agam Sougam Hoi , Karak Sabad Lagi Sougam Agam Hai ?256?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "Sweet words make a difficult task easy to perform whereas harsh and bitter words make an easy task difficult to accomplish. (256)",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      }
+    ]
+  }
+]

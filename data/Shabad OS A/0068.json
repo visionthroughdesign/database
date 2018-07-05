@@ -1,0 +1,111 @@
+[
+  {
+    "id": "5SA",
+    "writer": "Shabad OS",
+    "subsection": null,
+    "section": "Shabad OS A",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "LZKM",
+        "source_page": 68,
+        "source_line": 0,
+        "gurmukhi": "hrks b jhW nS?o numW my ^wjd ]",
+        "transliteration_english": "harakas b jehaa(n) nashavo numaa(n) mae khaajadh |",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "ZYRE",
+        "source_page": 68,
+        "source_line": 0,
+        "gurmukhi": "Aspy Suqro &Ilo iqlw my ^whd ]",
+        "transliteration_english": "asapae shutharo feelo thilaa mae khaahadh |",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "Y6R2",
+        "source_page": 68,
+        "source_line": 0,
+        "gurmukhi": "hrks iz brwsy KyS cIzy ^whd ]",
+        "transliteration_english": "harakas z baraasae khaesh cheezae khaahadh |",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "TA0H",
+        "source_page": 68,
+        "source_line": 0,
+        "gurmukhi": "goXw iz ^udw Xwid ^udw myN ^whd ]",
+        "transliteration_english": "goyaa z khudhaa yaadh khudhaa mae khaahadh |",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "id": "WHS",
+    "writer": "Shabad OS",
+    "subsection": null,
+    "section": "Shabad OS A",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "FVZ1",
+        "source_page": 802,
+        "source_line": 0,
+        "gurmukhi": "kwidir muqlk b kudrq zwihr As? ]",
+        "transliteration_english": "kaadhir muthalak b kudharath zaahir asa |",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "VE8H",
+        "source_page": 802,
+        "source_line": 0,
+        "gurmukhi": "drimAwny kudrqy ^ud kwidr As? ]298]",
+        "transliteration_english": "dharamiaanae kudharathae khudh kaadhir asa |298|",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "40NY",
+        "source_page": 802,
+        "source_line": 0,
+        "gurmukhi": "kwidro kudrq bhm AmyKqMd ]",
+        "transliteration_english": "kaadhiro kudharath beham amaekhathandh |",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "1FU6",
+        "source_page": 802,
+        "source_line": 0,
+        "gurmukhi": "Aw mqwey ZYir hk rw ry^qMd ]299]",
+        "transliteration_english": "aa mathaaeae ghair hak raa raekhathandh |299|",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      }
+    ]
+  }
+]

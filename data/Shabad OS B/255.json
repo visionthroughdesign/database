@@ -1,0 +1,111 @@
+[
+  {
+    "id": "456",
+    "writer": "Shabad OS",
+    "subsection": null,
+    "section": "Shabad OS B",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "PBN6",
+        "source_page": 255,
+        "source_line": 1,
+        "gurmukhi": "hom jg neIbyd kY pUjw Anyk jp qp sMjm Anyk puMn dwn kY",
+        "transliteration_english": "Hom Jag Naeebayd Kai Poojaa Anayka , Jap Tap Sanjam Anayk Pounn Daan Kai ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "Performing ritualistic worships, making offerings to the gods, performing worship of many kinds, living life in penance and Strict discipline, making charity;",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "9ZVD",
+        "source_page": 255,
+        "source_line": 2,
+        "gurmukhi": "jl Ql igr qr qIrQ Bvn BUA ihmwcl Dwrw AgR Arpn pRwn kY",
+        "transliteration_english": "Jal Dal Gir Tar Teerad Bhavan Bhooa , Himaachal Dhaaraa Agr Arapan Praan Kai ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "Roaming in deserts, water bodies mountains, places of pilgrimage and wasteland, giving up life while approaching the snow clad summits of Himalaya;",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "4XLB",
+        "source_page": 255,
+        "source_line": 3,
+        "gurmukhi": "rwg nwd bwd swAMgIq byd pwT bhu shj smwiD swiD koit jog iDAwn kY",
+        "transliteration_english": "Raag Naad Baad Saaangeet Bayd Paatth Bahu , Sahaj Samaadhi Saadhi Koti Jog Dhiaan Kai ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "Performing recitation of Vedas, singing in modes to the accompaniment of musical instruments, practicing obstinate exercises of Yoga, and indulging in millions of contemplations of Yogic discipline;",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "N1LQ",
+        "source_page": 255,
+        "source_line": 4,
+        "gurmukhi": "crn srin gur isK swDsMig pir vwir fwrau ingH hT jqn kotwin kY ]255]",
+        "transliteration_english": "Charan Sarani Gur Sikh Saadhasangi Pari , Vaari Daarau Nigrah Hatth Jatan Kotaani Kai ?255?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "Abstaining the senses from vices and trying other obstinate practices of Yoga, all this is sacrificed by a Guru-conscious person over the company of saintly persons and the refuge of the True Guru. All these practices are trivial and inane. (255)",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      }
+    ]
+  }
+]

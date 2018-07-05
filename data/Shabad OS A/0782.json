@@ -1,0 +1,86 @@
+[
+  {
+    "id": "8AN",
+    "writer": "Shabad OS",
+    "subsection": null,
+    "section": "Shabad OS A",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "YRLF",
+        "source_page": 782,
+        "source_line": 0,
+        "gurmukhi": "dohrw",
+        "transliteration_english": "dhoharaa",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "9SMT",
+        "source_page": 782,
+        "source_line": 0,
+        "gurmukhi": "hir hirjn dueI eyk hY ibb ibcwr kCu nwih ]",
+        "transliteration_english": "har harijan dhuee eaek hai bib bichaar kash naahi |",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "0X1B",
+        "source_page": 782,
+        "source_line": 0,
+        "gurmukhi": "jl qy aupj qrMg ijau jl hI ibKY smwih ]60]53]",
+        "transliteration_english": "jal thae oupaj tharang jio jal hee bikhai samaahi |60|53|",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS A": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      }
+    ]
+  }
+]

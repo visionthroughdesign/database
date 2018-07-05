@@ -1,0 +1,111 @@
+[
+  {
+    "id": "PEN",
+    "writer": "Shabad OS",
+    "subsection": null,
+    "section": "Shabad OS B",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "BL1T",
+        "source_page": 87,
+        "source_line": 1,
+        "gurmukhi": "siqgur crn srin cil jwey isK qw crn srin jgqu cil AwveI",
+        "transliteration_english": "Satigur Charan Sarani Chali Jaaay Sikha , Taa Charan Sarani Jagatu Chali Aavaee ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "A Sikh who devotedly goes to the refuge of a True Guru, has the whole world falling at his feet.",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "E8TQ",
+        "source_page": 87,
+        "source_line": 2,
+        "gurmukhi": "siqgur AwigAw siq siq kir mwnY isK AwigAw qwih skl sMswrih ihqwveI",
+        "transliteration_english": "Satigur Aagiaa Sati Sati Kari Maanai Sikha , Aagiaa Taahi Sakal Sansaarahi Hitaavaee ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "A Sikh of the Guru who abides by the command of his Guru, accepting it to be true; his command is loved by the whole world.",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "Q8G3",
+        "source_page": 87,
+        "source_line": 3,
+        "gurmukhi": "siqgur syvw Bwie pRwn pUjw krY isK srb inDwn AgRBwig ilv lwveI",
+        "transliteration_english": "Satigur Sayvaa Bhaai Praan Poojaa Karai Sikha , Sarab Nidhaan Agrabhaagi Liv Laavaee ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "A Sikh of the Guru who serves his Guru with loving devotion at the cost of his life considering such service as worship, all the treasures are mute attendant before him.",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "5MEP",
+        "source_page": 87,
+        "source_line": 4,
+        "gurmukhi": "siqgur sIiKAw dIiKAw ihrdy pÍys jwih qw kI sIK sunq prmpd pwveI ]87]",
+        "transliteration_english": "Satigur Seekhiaa Deekhiaa Hiraday Pravays Jaahi , Taa Kee Seekh Sounat Paramapad Paavaee ?87?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "A Sikh of the Guru who has the teachings and consecration of his Guru in his heart, listening to his teachings/sermons one can reach supreme spiritual state. (87)",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      }
+    ]
+  }
+]

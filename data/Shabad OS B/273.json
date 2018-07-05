@@ -1,0 +1,111 @@
+[
+  {
+    "id": "NHL",
+    "writer": "Shabad OS",
+    "subsection": null,
+    "section": "Shabad OS B",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "KBBF",
+        "source_page": 273,
+        "source_line": 1,
+        "gurmukhi": "piRQm hI iql boey DUir imil bUtu bwDY eyk sY Anyk hoq pRgt sMswr mY",
+        "transliteration_english": "Pridam Hee Til Boay Dhoori Mili Bootu Baadhai , Ayk Sai Anayk Hot Pragat Sansaar Mai ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "A sesame seed is Sown that mixes with earth to become a plant. One seed gives several seeds and spreads in the world in many forms.",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "0AS5",
+        "source_page": 273,
+        "source_line": 2,
+        "gurmukhi": "koaU lY cbwie koaU Kwl kwFY ryvrI kY koaU krY iqlvw imlwie gur bwr mY",
+        "transliteration_english": "Kooo Lai Chabaai Kooo Khaal Kaaddhai Rayvaree Kai , Kooo Karai Tilavaa Milaai Gur Baar Mai ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "Some munch them (sesame seeds), some coat sugar balls with them (Rewari) while others mix them with jaggery syrup and make cake/biscuit like eatables.",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "LGR7",
+        "source_page": 273,
+        "source_line": 3,
+        "gurmukhi": "koaU auKlI fwir kUit iqlkut krY koaU kolU pIir dIp idpq AMiDAwr mY",
+        "transliteration_english": "Kooo Oukhalee Daari Kooti Tilakout Karai Kooo , Koloo Peeri Deep Dipat Andhiaar Mai ?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "Some grind them and mix them with milk paste to make a form of sweet-meat, some squeeze them to extract oil and use it for burning lamp and lighting up their homes.",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      },
+      {
+        "id": "W3DR",
+        "source_page": 273,
+        "source_line": 4,
+        "gurmukhi": "jw ky eyk iql ko bIcwru n khq AwvY Aibgiq giq kq Awvq bIcwr mY ]273]",
+        "transliteration_english": "Jaa Kay Ayk Til Ko Beechaaru N Kahat Aavai , Abigati Gati Kat Aavat Beechaar Mai ?273?",
+        "transliteration_hindi": "",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Shabad OS B": {
+              "translation": "When multiplicity of one sesame seed of the creator cannot be explained, how can the unknowable, formless Lord be known? (273)",
+              "additional_information": null
+            }
+          },
+          "Punjabi": {
+            "Shabad OS B": {
+              "translation": "",
+              "additional_information": null
+            }
+          }
+        }
+      }
+    ]
+  }
+]
